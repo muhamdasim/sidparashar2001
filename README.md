@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=sidparashar2001&show_icons=true&theme=dracula">
 
-### Hi there I'm Siddharth! :wave:
+### Hi there :wave: I'm Siddharth! 
 
 I'm a computer science student who is passionate about writing code, solving problems, mentor students and Frontend Projects.
 
