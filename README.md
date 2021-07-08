@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there :wave: I'm Siddharth! 
 
-I'm a computer science student who is passionate about writing code, solving problems, mentor students and Frontend Projects.
+I'm a computer science student who is passionate about writing code, solving problems, mentoring students and Frontend Projects.
 
 - 🔭 I’m currently a CS student at Institute of Technology & Management, Gwalior  .
 - 📚 I’m currently working on Frontend Web Development using HTML,CSS and JS.
